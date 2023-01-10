@@ -1,4 +1,5 @@
 # RUHappy
+Winner for the Social Good Award for HackRU Fall 2021
 Detects your Smile
 
 #

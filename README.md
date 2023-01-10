@@ -1,6 +1,9 @@
 # RUHappy
 Winner for the Social Good Award for HackRU Fall 2021
+
+#
 Detects your Smile
+#
 
 #
 **This is an app I created with my teammates at HackRU.**
